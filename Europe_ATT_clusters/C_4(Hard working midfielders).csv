@@ -1,0 +1,45 @@
+Player ▲,Nation,Pos,Squad,Comp,Age,Gls,Ast,Cluster,Cluster_Prob
+Alfon,es ESP,"FW,MF",Celta Vigo,es La Liga,25,0.33,0.13,4,1.0
+Jordan Ayew,gh GHA,"FW,MF",Leicester City,eng Premier League,32,0.27,0.0,4,0.9999999994176241
+Mitchel Bakker,nl NED,"FW,DF",Lille,fr Ligue 1,24,0.24,0.16,4,1.0
+Sheraldo Becker,sr SUR,"FW,MF",Real Sociedad,es La Liga,29,0.18,0.09,4,1.0
+Tom Bischof,de GER,"MF,FW",Hoffenheim,de Bundesliga,19,0.18,0.07,4,0.9999999972800087
+Mahdi Camara,fr FRA,"MF,FW",Brest,fr Ligue 1,26,0.17,0.1,4,0.9986409916308182
+Andrea Cambiaso,it ITA,"DF,FW",Juventus,it Serie A,24,0.08,0.12,4,0.9999999997658353
+Matteo Cancellieri,it ITA,"FW,MF",Parma,it Serie A,22,0.19,0.0,4,0.9999983633488653
+Pep Chavarría,es ESP,"DF,FW",Rayo Vallecano,es La Liga,26,0.0,0.03,4,0.9916112441167263
+Francisco Conceição,pt POR,"FW,MF",Juventus,it Serie A,21,0.2,0.2,4,1.0
+Tanguy Coulibaly,fr FRA,"FW,MF",Montpellier,fr Ligue 1,23,0.18,0.0,4,0.9999999994162518
+Sergi Darder,es ESP,"MF,FW",Mallorca,es La Liga,30,0.07,0.2,4,0.9999957159682376
+Habib Diarra,sn SEN,"MF,FW",Strasbourg,fr Ligue 1,20,0.15,0.19,4,1.0
+Nicolás Domínguez,ar ARG,"MF,FW",Nott'ham Forest,eng Premier League,26,0.0,0.05,4,0.9998563786445226
+Patrick Dorgu,dk DEN,"DF,FW",Lecce,it Serie A,19,0.15,0.05,4,1.0
+Alieu Fadera,gm GAM,"FW,DF",Como,it Serie A,22,0.05,0.16,4,1.0
+Jon Guridi,es ESP,"MF,FW",Alavés,es La Liga,29,0.13,0.04,4,0.9999999999458087
+Emmanuel Gyasi,gh GHA,"DF,FW",Empoli,it Serie A,30,0.06,0.03,4,0.9999999822368207
+Ben Johnson,eng ENG,"DF,FW",Ipswich Town,eng Premier League,24,0.07,0.13,4,0.9999999519698515
+Teun Koopmeiners,nl NED,"MF,FW",Juventus,it Serie A,26,0.14,0.14,4,0.9999967532617016
+Dailon Livramento,cv CPV,"FW,MF",Hellas Verona,it Serie A,23,0.1,0.1,4,0.9999883627364184
+Fermin López,es ESP,"MF,FW",Barcelona,es La Liga,21,0.43,0.36,4,1.0
+Shuto Machino,jp JPN,"FW,MF",Holstein Kiel,de Bundesliga,24,0.51,0.09,4,0.9999999960632859
+Neal Maupay,fr FRA,FW,Marseille,fr Ligue 1,27,0.34,0.34,4,0.9999998149068843
+Mikel Merino,es ESP,"MF,FW",Arsenal,eng Premier League,28,0.4,0.11,4,0.9999999999987121
+Loïc Nego,hu HUN,"DF,FW",Le Havre,fr Ligue 1,33,0.0,0.0,4,0.99511403653961
+Ado Onaiwu,jp JPN,"MF,FW",Auxerre,fr Ligue 1,28,0.38,0.09,4,0.9999999999947864
+Christopher Operi,ci CIV,"DF,FW",Le Havre,fr Ligue 1,27,0.0,0.15,4,1.0
+Lucas Paquetá,br BRA,"MF,FW",West Ham,eng Premier League,26,0.15,0.0,4,0.9999999999992077
+Giuseppe Pezzella,it ITA,"DF,FW",Empoli,it Serie A,26,0.0,0.09,4,0.9977479774846258
+Santiago Pierotti,ar ARG,FW,Lecce,it Serie A,23,0.19,0.09,4,0.9999994918099636
+Alassane Pléa,fr FRA,"MF,FW",Gladbach,de Bundesliga,31,0.52,0.19,4,1.0
+Sandro Ramírez,es ESP,"FW,MF",Las Palmas,es La Liga,29,0.4,0.13,4,0.9999999999994555
+Jacob Ramsey,eng ENG,"FW,MF",Aston Villa,eng Premier League,23,0.06,0.17,4,1.0
+Lilian Raolisoa,fr FRA,"DF,FW",Angers,fr Ligue 1,24,0.0,0.21,4,1.0
+Óscar Rodríguez Arnaiz,es ESP,"MF,FW",Leganés,es La Liga,26,0.07,0.27,4,1.0
+Bernardo Silva,pt POR,"MF,FW",Manchester City,eng Premier League,29,0.13,0.13,4,0.9999592308670406
+Steven Skrzybski,de GER,"MF,FW",Holstein Kiel,de Bundesliga,31,0.41,0.2,4,1.0
+Florian Sotoca,fr FRA,"FW,MF",Lens,fr Ligue 1,33,0.05,0.05,4,1.0
+Tomáš Suslov,sk SVK,"MF,FW",Hellas Verona,it Serie A,22,0.0,0.04,4,1.0
+Leandro Trossard,be BEL,FW,Arsenal,eng Premier League,29,0.28,0.25,4,1.0
+Paul Wanner,de GER,"MF,FW",Heidenheim,de Bundesliga,18,0.15,0.1,4,0.9999994585249654
+Patrick Wimmer,at AUT,"MF,FW",Wolfsburg,de Bundesliga,23,0.15,0.2,4,1.0
+Anass Zaroury,ma MAR,"FW,MF",Lens,fr Ligue 1,23,0.13,0.13,4,0.9999999999999822

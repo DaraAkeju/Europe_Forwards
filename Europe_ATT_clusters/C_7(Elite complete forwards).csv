@@ -1,0 +1,30 @@
+Player ▲,Nation,Pos,Squad,Comp,Age,Gls,Ast,Cluster,Cluster_Prob
+Himad Abdelli,dz ALG,"MF,FW",Angers,fr Ligue 1,24,0.19,0.03,7,1.0
+Maghnes Akliouche,fr FRA,"FW,MF",Monaco,fr Ligue 1,22,0.19,0.37,7,1.0
+Alex Baena,es ESP,"MF,FW",Villarreal,es La Liga,23,0.24,0.31,7,1.0
+Bradley Barcola,fr FRA,FW,Paris S-G,fr Ligue 1,21,0.58,0.41,7,0.9999975323550068
+Eliesse Ben Seghir,ma MAR,"MF,FW",Monaco,fr Ligue 1,19,0.31,0.15,7,0.9999999999999396
+Álex Berenguer,es ESP,"FW,MF",Athletic Club,es La Liga,29,0.23,0.27,7,1.0
+Ousmane Dembélé,fr FRA,FW,Paris S-G,fr Ligue 1,27,1.09,0.31,7,1.0
+Marvin Ducksch,de GER,FW,Werder Bremen,de Bundesliga,30,0.3,0.3,7,1.0
+Sebastiano Esposito,it ITA,"FW,MF",Empoli,it Serie A,22,0.31,0.0,7,0.9999999999990248
+Eberechi Eze,eng ENG,"MF,FW",Crystal Palace,eng Premier League,26,0.28,0.28,7,1.0
+Mason Greenwood,eng ENG,"FW,MF",Marseille,fr Ligue 1,22,0.67,0.16,7,1.0
+Antoine Griezmann,fr FRA,"FW,MF",Atlético Madrid,es La Liga,33,0.29,0.26,7,1.0
+Vincenzo Grifo,it ITA,"FW,MF",Freiburg,de Bundesliga,31,0.3,0.41,7,1.0
+Alexander Isak,se SWE,FW,Newcastle Utd,eng Premier League,24,0.75,0.2,7,0.9999999999878373
+Vinicius Júnior,br BRA,FW,Real Madrid,es La Liga,24,0.44,0.32,7,1.0
+Andrej Kramarić,hr CRO,"MF,FW",Hoffenheim,de Bundesliga,33,0.36,0.26,7,1.0
+Giovani Lo Celso,ar ARG,"MF,FW",Betis,es La Liga,28,0.49,0.19,7,0.9999999999999325
+Kylian Mbappé,fr FRA,FW,Real Madrid,es La Liga,25,0.96,0.09,7,1.0
+Bryan Mbeumo,cm CMR,FW,Brentford,eng Premier League,24,0.53,0.18,7,1.0
+Enzo Millot,fr FRA,"MF,FW",Stuttgart,de Bundesliga,22,0.29,0.24,7,1.0
+Cole Palmer,eng ENG,"MF,FW",Chelsea,eng Premier League,22,0.42,0.23,7,1.0
+Nicolás Paz,ar ARG,"MF,FW",Como,it Serie A,19,0.2,0.27,7,1.0
+Christian Pulisic,us USA,"FW,MF",Milan,it Serie A,25,0.4,0.33,7,1.0
+Raphinha,br BRA,"FW,MF",Barcelona,es La Liga,27,0.57,0.29,7,1.0
+Mohamed Salah,eg EGY,FW,Liverpool,eng Premier League,32,0.77,0.48,7,1.0
+Antoine Semenyo,gh GHA,FW,Bournemouth,eng Premier League,24,0.31,0.14,7,0.9957838351040739
+Nikola Vlašić,hr CRO,"MF,FW",Torino,it Serie A,26,0.21,0.17,7,0.9999804264808991
+Florian Wirtz,de GER,"MF,FW",Leverkusen,de Bundesliga,21,0.38,0.46,7,1.0
+Lamine Yamal,es ESP,FW,Barcelona,es La Liga,17,0.28,0.41,7,1.0

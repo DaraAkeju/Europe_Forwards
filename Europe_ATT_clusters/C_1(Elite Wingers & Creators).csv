@@ -1,0 +1,29 @@
+Player ▲,Nation,Pos,Squad,Comp,Age,Gls,Ast,Cluster,Cluster_Prob
+Julián Álvarez,ar ARG,FW,Atlético Madrid,es La Liga,24,0.61,0.14,1,0.9999999999999876
+Mohamed Amoura,dz ALG,FW,Wolfsburg,de Bundesliga,24,0.36,0.33,1,0.9999999999996643
+Antony,br BRA,FW,Betis,es La Liga,24,0.33,0.13,1,0.9999999998604245
+Badredine Bouanani,dz ALG,"MF,FW",Nice,fr Ligue 1,19,0.25,0.25,1,0.9999999901335599
+Jarrod Bowen,eng ENG,"FW,MF",West Ham,eng Premier League,27,0.39,0.24,1,0.999999999998666
+Gianluca Caprari,it ITA,"MF,FW",Monza,it Serie A,31,0.16,0.11,1,0.9999999966763351
+Zuriko Davitashvili,ge GEO,"FW,MF",Saint-Étienne,fr Ligue 1,23,0.29,0.26,1,0.9999999999529763
+Jeremy Doku,be BEL,"FW,MF",Manchester City,eng Premier League,22,0.18,0.36,1,0.9999999999995808
+Hugo Ekitike,fr FRA,FW,Eint Frankfurt,de Bundesliga,22,0.53,0.28,1,0.9999999956381966
+Abde Ezzalzouli,ma MAR,"FW,MF",Betis,es La Liga,22,0.09,0.09,1,1.0
+Jorge de Frutos,es ESP,"FW,MF",Rayo Vallecano,es La Liga,27,0.22,0.11,1,1.0
+Anthony Gordon,eng ENG,"FW,MF",Newcastle Utd,eng Premier League,23,0.22,0.19,1,0.9999999999999973
+Son Heung-min,kr KOR,FW,Tottenham,eng Premier League,32,0.3,0.38,1,0.9999999999971259
+Benedict Hollerbach,de GER,"FW,MF",Union Berlin,de Bundesliga,23,0.32,0.04,1,0.9944763334255715
+Mohammed Kudus,gh GHA,"FW,MF",West Ham,eng Premier League,23,0.17,0.1,1,1.0
+Khvicha Kvaratskhelia,ge GEO,"FW,MF",Napoli,it Serie A,23,0.38,0.23,1,0.9999999999999769
+Ademola Lookman,ng NGA,"MF,FW",Atalanta,it Serie A,26,0.6,0.2,1,0.9999999992428972
+Dodi Lukebakio,be BEL,FW,Sevilla,es La Liga,26,0.32,0.06,1,1.0
+Omar Marmoush,eg EGY,FW,Eint Frankfurt,de Bundesliga,25,0.93,0.56,1,1.0
+Iliman Ndiaye,sn SEN,FW,Everton,eng Premier League,24,0.33,0.0,1,0.9999999999994067
+Dan Ndoye,ch SUI,FW,Bologna,it Serie A,23,0.34,0.17,1,1.0
+Luis Rioja,es ESP,"MF,FW",Valencia,es La Liga,30,0.16,0.1,1,0.9999999917047759
+Bukayo Saka,eng ENG,"FW,MF",Arsenal,eng Premier League,22,0.31,0.52,1,1.0
+Moses Simon,ng NGA,"FW,MF",Nantes,fr Ligue 1,29,0.28,0.34,1,1.0
+Florian Thauvin,fr FRA,"FW,MF",Udinese,it Serie A,31,0.37,0.14,1,1.0
+Carlos Vicente,es ESP,"FW,MF",Alavés,es La Liga,25,0.15,0.15,1,0.9999999999999964
+Kenan Yıldız,tr TUR,"FW,MF",Juventus,it Serie A,19,0.26,0.15,1,0.9999998156549427
+Mattia Zaccagni,it ITA,FW,Lazio,it Serie A,29,0.27,0.2,1,1.0

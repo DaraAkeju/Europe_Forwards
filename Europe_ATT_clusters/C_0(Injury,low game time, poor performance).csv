@@ -1,0 +1,267 @@
+Player ▲,Nation,Pos,Squad,Comp,Age,Gls,Ast,Cluster,Cluster_Prob
+Akor Adams,ng NGA,FW,Sevilla,es La Liga,24,0.0,0.0,0,0.9999999918147395
+Jeremy Agbonifo,se SWE,"FW,MF",Lens,fr Ligue 1,18,0.3,0.0,0,0.999861480550233
+Ayman Aiki,fr FRA,"FW,MF",Saint-Étienne,fr Ligue 1,19,0.0,0.0,0,0.9999906093272964
+Carlos Alcaraz,ar ARG,"FW,MF",Everton,eng Premier League,21,0.24,0.35,0,0.9962361433758246
+Carles Aleñá,es ESP,"MF,FW",Getafe,es La Liga,26,0.0,0.0,0,0.9996971556133947
+Miguel Almirón,py PAR,FW,Newcastle Utd,eng Premier League,30,0.0,0.0,0,0.9999999979587599
+Amath,sn SEN,"FW,DF",Valladolid,es La Liga,28,0.0,0.24,0,0.9974144856401116
+José Arnaiz,es ESP,"FW,MF",Osasuna,es La Liga,29,0.0,0.0,0,1.0
+Marko Arnautović,at AUT,FW,Inter,it Serie A,35,0.68,0.34,0,0.9999466607761227
+Marco Asensio,es ESP,"FW,MF",Paris S-G,fr Ligue 1,28,0.29,0.58,0,0.999999999998602
+Dehmaine Assoumani,fr FRA,"MF,FW",Nantes,fr Ligue 1,19,0.0,0.0,0,1.0
+Taiwo Awoniyi,ng NGA,FW,Nott'ham Forest,eng Premier League,26,0.22,0.0,0,0.9967030432311992
+Florian Ayé,fr FRA,FW,Auxerre,fr Ligue 1,27,0.31,0.0,0,0.9907423763700204
+Cédric Bakambu,cd COD,FW,Betis,es La Liga,33,0.25,0.25,0,0.9974201702557927
+Folarin Balogun,us USA,FW,Monaco,fr Ligue 1,23,0.59,0.0,0,0.9999497124693816
+Lameck Banda,zm ZAM,"FW,MF",Lecce,it Serie A,23,0.0,0.15,0,0.9991955829533511
+Scott Banks,sct SCO,"FW,MF",St. Pauli,de Bundesliga,22,0.0,0.0,0,0.9999999995061124
+Valentín Barco,ar ARG,"DF,FW",Sevilla,es La Liga,20,0.0,0.0,0,0.9999998521205289
+Kike Barja,es ESP,"FW,MF",Osasuna,es La Liga,27,0.0,0.29,0,1.0
+Michy Batshuayi,be BEL,FW,Eint Frankfurt,de Bundesliga,30,0.91,0.0,0,0.9999999999869811
+Kevin Behrens,de GER,FW,Wolfsburg,de Bundesliga,33,0.53,0.0,0,1.0
+Andrea Belotti,it ITA,FW,Como,it Serie A,30,0.3,0.0,0,0.9987232177130372
+Adrian Benedyczak,pl POL,"FW,MF",Parma,it Serie A,23,0.0,0.0,0,0.9999376933389659
+Saïd Benrahma,dz ALG,"FW,MF",Lyon,fr Ligue 1,28,0.12,0.37,0,0.9905102277516766
+Mergim Berisha,de GER,"FW,MF",Hoffenheim,de Bundesliga,26,0.27,0.27,0,0.9999965817764999
+Jan-Niklas Beste,de GER,"FW,MF",Freiburg,de Bundesliga,25,0.0,0.42,0,0.9999998394917147
+El Bilal Touré,ml MLI,"FW,MF",Stuttgart,de Bundesliga,22,0.5,0.25,0,0.9999841894845799
+Saïmon Bouabré,fr FRA,"MF,FW",Monaco,fr Ligue 1,18,0.0,0.0,0,0.9999809709679193
+Brenner,br BRA,"MF,FW",Udinese,it Serie A,24,0.23,0.47,0,0.999999008273894
+Ben Brereton,cl CHI,FW,Southampton,eng Premier League,25,0.0,0.0,0,0.9949949511260102
+Armando Broja,al ALB,FW,Everton,eng Premier League,22,0.0,0.0,0,0.9995948466951673
+Jacob Bruun Larsen,dk DEN,"MF,FW",Stuttgart,de Bundesliga,25,0.22,0.0,0,0.9999986389003838
+Jacob Bruun Larsen,dk DEN,"FW,MF",Hoffenheim,de Bundesliga,25,0.45,0.45,0,0.9999999947602483
+Tajon Buchanan,ca CAN,"DF,FW",Inter,it Serie A,25,0.0,0.0,0,0.9999992531816906
+Emi Buendía,ar ARG,"MF,FW",Aston Villa,eng Premier League,27,0.0,0.0,0,1.0
+Manu Bueno,es ESP,"MF,FW",Sevilla,es La Liga,20,0.63,0.0,0,1.0
+Wes Burns,wls WAL,"FW,DF",Ipswich Town,eng Premier League,29,0.0,0.1,0,0.5743313442685704
+Pau Cabanes,es ESP,"MF,FW",Alavés,es La Liga,19,0.0,0.0,0,0.9999999764903438
+Pau Cabanes,es ESP,"MF,FW",Villarreal,es La Liga,19,0.56,0.0,0,1.0
+Drissa Camara,ci CIV,"MF,FW",Parma,it Serie A,22,0.0,0.0,0,0.9932720369794994
+Francesco Camarda,it ITA,"FW,MF",Milan,it Serie A,16,0.0,0.0,0,0.9999999995151789
+Nicolò Cambiaghi,it ITA,FW,Bologna,it Serie A,23,0.14,0.43,0,0.9999026979125042
+Peio Canales,es ESP,"MF,FW",Athletic Club,es La Liga,19,0.0,0.0,0,0.9999980979512305
+Sergi Canós,es ESP,"MF,FW",Valencia,es La Liga,27,0.0,0.24,0,0.9999999915472442
+Valentin Carboni,ar ARG,"MF,FW",Marseille,fr Ligue 1,19,0.0,0.0,0,1.0
+Irvin Cardona,fr FRA,"FW,MF",Espanyol,es La Liga,26,0.15,0.15,0,0.9617914511659271
+Marc Cardona,es ESP,"FW,DF",Las Palmas,es La Liga,29,0.0,0.0,0,1.0
+Fabio Carvalho,pt POR,"FW,MF",Brentford,eng Premier League,21,0.39,0.2,0,0.9998541568385183
+Gaetano Castrovilli,it ITA,"MF,FW",Lazio,it Serie A,27,0.0,0.0,0,1.0
+Franco Cervi,ar ARG,"FW,MF",Celta Vigo,es La Liga,30,0.0,0.0,0,0.9999966483677339
+Gabriel Charpentier,cg CGO,FW,Parma,it Serie A,25,0.33,0.67,0,0.9999999987139727
+Sidiki Cherif,fr FRA,FW,Angers,fr Ligue 1,17,0.0,0.0,0,0.9999301161806854
+Federico Chiesa,it ITA,FW,Liverpool,eng Premier League,26,0.0,0.0,0,0.9999985633975504
+Chiquinho,pt POR,"MF,FW",Mallorca,es La Liga,24,0.0,0.0,0,1.0
+Florinel Coman,ro ROU,"FW,MF",Cagliari,it Serie A,26,0.34,0.0,0,0.9999998504557409
+Tomás Conechny,ar ARG,"FW,MF",Alavés,es La Liga,26,0.11,0.0,0,0.9999480662967404
+Sirlord Conteh,de GER,"FW,MF",Heidenheim,de Bundesliga,28,0.1,0.1,0,0.9988420741983229
+Maxwel Cornet,ci CIV,"FW,MF",Genoa,it Serie A,27,0.74,0.37,0,0.9999999999143263
+Patson Daka,zm ZAM,"FW,MF",Leicester City,eng Premier League,25,0.12,0.0,0,0.9251141781193236
+Danilo,br BRA,"MF,FW",Nott'ham Forest,eng Premier League,23,0.0,0.0,0,0.999999983423388
+Arnaut Danjuma,nl NED,FW,Villarreal,es La Liga,27,0.91,0.0,0,0.9999999999988081
+Bobby De Cordova-Reid,jm JAM,FW,Leicester City,eng Premier League,31,0.12,0.24,0,0.9831386772277361
+Andy Delort,dz ALG,FW,Montpellier,fr Ligue 1,32,0.0,0.0,0,0.9999874578081465
+Kiernan Dewsbury-Hall,eng ENG,"MF,FW",Chelsea,eng Premier League,25,0.0,0.34,0,0.9999999999999858
+Assane Diao,sn SEN,FW,Betis,es La Liga,18,0.32,0.65,0,0.9999999989394053
+Krépin Diatta,sn SEN,"DF,FW",Monaco,fr Ligue 1,25,0.0,0.0,0,0.9706341431465828
+Justin Diehl,de GER,"FW,DF",Stuttgart,de Bundesliga,19,0.83,0.0,0,1.0
+Junior Dina Ebimbe,fr FRA,"MF,FW",Eint Frankfurt,de Bundesliga,23,0.0,0.3,0,0.9999997891460994
+Marc Domenech,es ESP,"FW,MF",Mallorca,es La Liga,18,0.0,0.0,0,0.9999999053682762
+Anastasios Douvikas,gr GRE,FW,Celta Vigo,es La Liga,24,0.38,0.13,0,0.9996637667900616
+Anastasios Douvikas,gr GRE,FW,Como,it Serie A,24,0.31,0.31,0,0.9783069685751443
+Duk,cv CPV,"MF,FW",Leganés,es La Liga,24,0.0,0.0,0,0.999999999965306
+Julien Duranville,be BEL,"FW,MF",Dortmund,de Bundesliga,18,0.0,0.0,0,0.9999999998533395
+Milan Đurić,ba BIH,FW,Parma,it Serie A,34,0.33,0.0,0,0.9999954826993861
+Odsonne Édouard,fr FRA,"MF,FW",Crystal Palace,eng Premier League,26,0.0,0.0,0,0.9999997882430869
+Emmanuel Ekong,se SWE,"MF,FW",Empoli,it Serie A,22,0.0,0.0,0,0.9999947096916588
+Caleb Ekuban,gh GHA,FW,Genoa,it Serie A,30,0.16,0.48,0,0.9999999342489673
+Meschak Elia,cd COD,FW,Nantes,fr Ligue 1,26,0.53,0.0,0,0.9999999999824709
+Julio Enciso,py PAR,"MF,FW",Brighton,eng Premier League,20,0.0,0.0,0,0.9999739591768673
+Endrick,br BRA,FW,Real Madrid,es La Liga,18,0.25,0.0,0,0.9999999999935909
+Ansu Fati,es ESP,FW,Barcelona,es La Liga,21,0.0,0.0,0,0.9999999999165201
+João Félix,pt POR,"FW,MF",Chelsea,eng Premier League,24,0.24,0.24,0,0.9999999617743623
+Evan Ferguson,ie IRL,FW,Brighton,eng Premier League,19,0.37,0.0,0,0.9999980666121167
+Evan Ferguson,ie IRL,FW,West Ham,eng Premier League,19,0.0,0.0,0,0.9999999979651122
+Valery Fernández,es ESP,"MF,FW",Mallorca,es La Liga,24,0.59,0.0,0,0.9999989064803511
+Michael Folorunsho,it ITA,"FW,MF",Fiorentina,it Serie A,26,0.0,0.0,0,0.9987215941052937
+Carlos Forbs,pt POR,"MF,FW",Wolves,eng Premier League,20,0.0,0.0,0,0.9999999805985136
+Omari Forson,eng ENG,"MF,FW",Monza,it Serie A,20,0.0,0.0,0,0.9999999914812294
+Niclas Füllkrug,de GER,FW,West Ham,eng Premier League,31,0.34,0.23,0,0.8059350290443469
+Kyogo Furuhashi,jp JPN,FW,Rennes,fr Ligue 1,29,0.0,0.0,0,0.9999987026546058
+Alessandro Gabrielloni,it ITA,"FW,MF",Como,it Serie A,30,0.63,0.63,0,1.0
+Ignatius Ganago,cm CMR,"FW,MF",Nantes,fr Ligue 1,25,0.0,0.0,0,0.9999990368579292
+Silvère Ganvoula M'Boussy,cg CGO,FW,Monza,it Serie A,28,0.0,0.0,0,0.9994608211348982
+Tyrique George,eng ENG,FW,Chelsea,eng Premier League,18,0.5,0.5,0,1.0
+Rodrigo Gomes,pt POR,"DF,FW",Wolves,eng Premier League,21,0.22,0.0,0,0.8743875160176345
+Dani Gómez,es ESP,FW,Valencia,es La Liga,26,0.34,0.0,0,0.9999983584375025
+Tidiam Gomis,fr FRA,"MF,FW",RB Leipzig,de Bundesliga,17,0.0,0.59,0,1.0
+Peter González,do DOM,"MF,FW",Getafe,es La Liga,22,0.0,0.0,0,0.8037838393709811
+Michael Gregoritsch,at AUT,FW,Freiburg,de Bundesliga,30,0.28,0.14,0,0.9899504898660682
+Albert Grønbaek,dk DEN,"FW,MF",Southampton,eng Premier League,23,0.0,0.0,0,0.999991968563523
+Sergi Guardiola,es ESP,FW,Rayo Vallecano,es La Liga,33,0.0,0.0,0,0.9999999999999645
+Luis Guilherme,br BRA,"MF,FW",West Ham,eng Premier League,18,0.0,0.0,0,0.9999999999058797
+Bahereba Guirassy,fr FRA,"FW,MF",Nantes,fr Ligue 1,17,0.51,0.0,0,0.999990508462708
+Sébastien Haller,ci CIV,FW,Leganés,es La Liga,30,0.0,0.0,0,0.9996015890185505
+Ali Al Hamadi,iq IRQ,FW,Ipswich Town,eng Premier League,22,0.0,0.0,0,1.0
+Abdou Harroui,nl NED,"MF,FW",Hellas Verona,it Serie A,26,0.2,0.39,0,0.9999999924555345
+Hwang Hee-chan,kr KOR,"MF,FW",Wolves,eng Premier League,28,0.27,0.0,0,0.9993049680649629
+George Hirst,sct SCO,FW,Ipswich Town,eng Premier League,25,0.41,0.14,0,0.9122672880524927
+Ilyes Housni,fr FRA,"FW,MF",Le Havre,fr Ligue 1,19,0.0,0.0,0,0.9999913903121022
+Stanis Idumbo,be BEL,"FW,MF",Sevilla,es La Liga,19,0.31,0.31,0,0.9991351048926701
+Kelechi Iheanacho,ng NGA,FW,Sevilla,es La Liga,27,0.0,0.0,0,0.9999999263091821
+Jonathan Ikone,fr FRA,"FW,MF",Fiorentina,it Serie A,26,0.0,0.0,0,0.9999999254000694
+Jonathan Ikone,fr FRA,FW,Como,it Serie A,26,0.33,0.0,0,0.9930057595846877
+George Ilenikhena,ng NGA,FW,Monaco,fr Ligue 1,17,0.38,0.25,0,0.9999997701427483
+Samuel Iling-Junior,eng ENG,"FW,MF",Bologna,it Serie A,20,0.77,0.0,0,1.0
+Danny Ings,eng ENG,"FW,MF",West Ham,eng Premier League,32,0.31,0.63,0,0.9999999999999734
+Alessio Iovine,it ITA,"DF,FW",Como,it Serie A,33,0.0,0.0,0,0.9999999922775116
+Daniel Jebbison,eng ENG,FW,Bournemouth,eng Premier League,20,0.77,0.0,0,1.0
+Gabriel Jesus,br BRA,FW,Arsenal,eng Premier League,27,0.44,0.0,0,0.9894236266277495
+Jota,pt POR,"FW,MF",Rennes,fr Ligue 1,25,0.27,0.0,0,0.9999989447158438
+Luka Jović,rs SRB,"FW,MF",Milan,it Serie A,26,0.32,0.0,0,0.9998441666429708
+Juanmi,es ESP,"FW,MF",Betis,es La Liga,31,0.0,0.0,0,0.9999999921050975
+Juanmi,es ESP,"FW,MF",Getafe,es La Liga,31,0.0,0.0,0,0.9976597880107452
+Issa Kaboré,bf BFA,"DF,FW",Werder Bremen,de Bundesliga,23,0.0,0.0,0,0.9999779497728255
+Tino Kadewere,zw ZIM,"MF,FW",Nantes,fr Ligue 1,28,0.18,0.35,0,0.9971508891784718
+Jesper Karlsson,se SWE,FW,Bologna,it Serie A,26,0.3,0.0,0,0.9998316762404117
+Lior Kasa,il ISR,"MF,FW",Genoa,it Serie A,18,0.0,0.0,0,0.9999999999996358
+Mikkel Kaufmann,dk DEN,FW,Heidenheim,de Bundesliga,23,0.0,0.0,0,0.9998769832047009
+Michael Kayode,it ITA,"DF,FW",Fiorentina,it Serie A,20,0.0,0.0,0,0.9999999810804303
+Abdoulaye Keita,es ESP,"FW,MF",Getafe,es La Liga,21,0.0,0.0,0,0.9999999707271621
+Ismael Konate,ci CIV,"FW,MF",Empoli,it Serie A,18,0.0,0.77,0,1.0
+Ismaël Koné,ca CAN,"MF,FW",Marseille,fr Ligue 1,22,0.0,0.0,0,0.9999999793365009
+Christian Kouamé,ci CIV,"FW,MF",Empoli,it Serie A,26,0.18,0.0,0,0.9999997660571835
+Christian Kouamé,ci CIV,"FW,MF",Fiorentina,it Serie A,26,0.0,0.14,0,0.9990283316553611
+Moritz-Broni Kwarteng,gh GHA,"MF,FW",Bochum,de Bundesliga,26,0.0,0.0,0,0.9999999509620435
+Mohamed Lamine Bayo,gn GUI,FW,Lille,fr Ligue 1,26,0.59,0.29,0,0.9999999956293077
+Gianluca Lapadula,pe PER,"FW,MF",Cagliari,it Serie A,34,0.0,0.0,0,0.9999999587241932
+Jérémy Le Douaron,fr FRA,FW,Brest,fr Ligue 1,26,0.0,0.0,0,0.9999980055061067
+Marin Ljubicic,hr CRO,"FW,MF",Union Berlin,de Bundesliga,22,0.32,0.32,0,0.9999999467358688
+Iker Losada,es ESP,"MF,FW",Betis,es La Liga,22,0.0,0.0,0,0.9999295811944416
+Iker Losada,es ESP,"FW,MF",Celta Vigo,es La Liga,22,0.25,0.0,0,0.9999751966376497
+Edmond-Paris Maghoma,eng ENG,"MF,FW",Brentford,eng Premier League,23,0.0,0.0,0,1.0
+Daniel Maldini,it ITA,"FW,MF",Atalanta,it Serie A,22,1.03,0.0,0,0.9999999999999272
+Donyell Malen,nl NED,"FW,MF",Dortmund,de Bundesliga,25,0.44,0.0,0,0.9958986648640481
+Donyell Malen,nl NED,FW,Aston Villa,eng Premier League,25,0.88,0.0,0,0.9999999999506723
+Ruslan Malinovskyi,ua UKR,"MF,FW",Genoa,it Serie A,31,0.0,0.47,0,0.9999999997162772
+Johan Manzambi,ch SUI,"FW,MF",Freiburg,de Bundesliga,18,0.54,0.27,0,0.9999997430820812
+Solly March,eng ENG,"FW,MF",Brighton,eng Premier League,30,0.0,0.0,0,1.0
+Mirko Marić,hr CRO,FW,Venezia,it Serie A,29,0.0,0.0,0,0.9999880413852538
+Mirko Marić,hr CRO,"FW,MF",Monza,it Serie A,29,0.0,0.0,0,0.9999999468587554
+Arkaitz Mariezkurrena,es ESP,"FW,MF",Real Sociedad,es La Liga,19,0.74,0.0,0,0.9999991184536561
+Jaime Mata,es ESP,"FW,MF",Las Palmas,es La Liga,35,0.0,0.0,0,1.0
+Igor Matanovic,hr CRO,FW,Eint Frankfurt,de Bundesliga,21,0.29,0.0,0,0.9730978380248418
+Keke Maximilian Topp,de GER,"FW,MF",Werder Bremen,de Bundesliga,20,0.71,0.71,0,1.0
+Samuel Mbangula,be BEL,FW,Juventus,it Serie A,20,0.38,0.38,0,0.9993115685480076
+Ethan Mbappé,fr FRA,"MF,FW",Lille,fr Ligue 1,17,0.0,0.0,0,1.0
+Ibrahim Mbaye,fr FRA,"FW,MF",Paris S-G,fr Ligue 1,16,0.26,0.26,0,0.9999999999951052
+James Mcatee,eng ENG,"MF,FW",Manchester City,eng Premier League,21,0.77,0.0,0,0.9999999998773088
+Mohamed Meité,fr FRA,FW,Rennes,fr Ligue 1,16,0.33,0.0,0,0.9861957111023744
+Lucas Michal,fr FRA,"FW,MF",Monaco,fr Ligue 1,19,0.0,0.0,0,1.0
+Pere Milla,es ESP,"MF,FW",Espanyol,es La Liga,31,0.59,0.0,0,0.9996584137074911
+Bojan Miovski,mk MKD,FW,Girona,es La Liga,25,0.21,0.1,0,0.9995301591392491
+Rafa Mir,es ESP,"FW,MF",Valencia,es La Liga,27,0.12,0.24,0,0.9999894901957959
+Max Moerstedt,de GER,FW,Hoffenheim,de Bundesliga,19,0.0,0.0,0,0.9973743742770751
+Florent Mollet,fr FRA,"MF,FW",Nantes,fr Ligue 1,32,0.0,0.0,0,0.9999994811456996
+Jeremy Monga,eng ENG,"FW,MF",Leicester City,eng Premier League,15,0.0,0.0,0,0.9999896983024086
+Mikey Moore,eng ENG,FW,Tottenham,eng Premier League,16,0.0,0.24,0,0.9999752998911838
+Youssoufa Moukoko,de GER,"FW,MF",Nice,fr Ligue 1,19,0.87,0.43,0,1.0
+Steve Mounié,bj BEN,"FW,MF",Augsburg,de Bundesliga,29,0.26,0.0,0,1.0
+Mykhailo Mudryk,ua UKR,FW,Chelsea,eng Premier League,23,0.0,0.0,0,1.0
+Florent Muslija,xk KVX,"FW,MF",Freiburg,de Bundesliga,26,0.0,0.0,0,0.9999975887093032
+Kingstone Mutandwa,zm ZAM,"FW,MF",Cagliari,it Serie A,21,0.0,0.0,0,0.9999985928363244
+Konan N'dri,ci CIV,"FW,MF",Lecce,it Serie A,23,0.0,0.0,0,0.9999993442034204
+Djylian N'Guessan,fr FRA,FW,Saint-Étienne,fr Ligue 1,15,0.0,0.0,0,0.999999990908389
+Jesús Navas,es ESP,"FW,MF",Sevilla,es La Liga,38,0.21,0.0,0,0.9999946530790598
+Junior Ndiaye,fr FRA,FW,Montpellier,fr Ligue 1,19,0.0,0.0,0,0.9999688983658513
+Reiss Nelson,eng ENG,FW,Fulham,eng Premier League,24,0.19,0.19,0,0.9999932258328821
+Cyril Ngonge,be BEL,FW,Napoli,it Serie A,24,0.0,0.0,0,0.9999999999999964
+Steve Ngoura,fr FRA,FW,Le Havre,fr Ligue 1,19,0.0,0.0,0,0.9999999940576352
+Eybi Nije,se SWE,"FW,MF",Torino,it Serie A,19,0.23,0.0,0,0.9978532018013595
+Lukas Nmecha,de GER,"FW,MF",Wolfsburg,de Bundesliga,25,0.58,0.0,0,0.9999999999999893
+Tijjani Noslin,nl NED,"FW,MF",Lazio,it Serie A,25,0.21,0.21,0,0.7451079042319084
+Chidozie Obi-Martin,dk DEN,FW,Manchester Utd,eng Premier League,16,0.0,0.0,0,0.999999999788475
+Lucas Ocampos,ar ARG,FW,Sevilla,es La Liga,30,0.0,0.53,0,0.999999991117452
+Wilson Odobert,fr FRA,"FW,MF",Tottenham,eng Premier League,19,0.11,0.0,0,0.9820816219835848
+Chiedozie Ogbene,ie IRL,FW,Ipswich Town,eng Premier League,27,0.0,0.0,0,0.9999739407352252
+Hamzat Ojediran,ng NGA,"MF,FW",Lens,fr Ligue 1,20,0.22,0.0,0,0.9999999957161698
+Noah Okafor,ch SUI,FW,Milan,it Serie A,24,0.22,0.0,0,0.9999821258618838
+Kazeem Olaigbe,be BEL,"MF,FW",Rennes,fr Ligue 1,21,0.0,0.61,0,0.9999999999316445
+Ben Old,nz NZL,"FW,MF",Saint-Étienne,fr Ligue 1,21,0.0,0.0,0,0.9943225853333812
+Jacob Ondrejka,se SWE,"MF,FW",Parma,it Serie A,21,1.06,0.0,0,0.9999999999999782
+Karim Onisiwo,at AUT,"MF,FW",Mainz 05,de Bundesliga,32,0.0,0.0,0,0.9999999988148449
+Gift Orban,ng NGA,FW,Hoffenheim,de Bundesliga,22,0.53,0.0,0,0.9988994119316763
+Gift Orban,ng NGA,"FW,DF",Lyon,fr Ligue 1,22,0.95,0.0,0,0.9999999999609868
+Gabriel Osei Misehouy,nl NED,"FW,MF",Girona,es La Liga,19,0.34,0.0,0,0.9999892914694785
+William Osula,dk DEN,FW,Newcastle Utd,eng Premier League,20,0.67,0.0,0,1.0
+Guimissongui Ouattara,fr FRA,"DF,FW",Strasbourg,fr Ligue 1,18,0.19,0.19,0,0.9999943509608726
+Kassoum Ouattara,fr FRA,"DF,FW",Monaco,fr Ligue 1,19,0.0,0.23,0,0.9999999995395203
+Remi Oudin,fr FRA,"MF,FW",Lecce,it Serie A,27,0.0,0.0,0,0.9999703083802719
+Álvaro Pascual,es ESP,FW,Sevilla,es La Liga,22,0.22,0.0,0,0.9570995458680844
+Leonardo Pavoletti,it ITA,"FW,MF",Cagliari,it Serie A,35,0.41,0.0,0,0.9999999999989315
+Nicolas Pays,fr FRA,"FW,MF",Montpellier,fr Ligue 1,20,0.0,0.0,0,0.9999972804117082
+Jordan Pefok,us USA,FW,Union Berlin,de Bundesliga,28,0.0,0.1,0,0.6838641604406572
+Jordan Pefok,us USA,FW,Reims,fr Ligue 1,28,0.24,0.0,0,0.9999979227176035
+Pietro Pellegri,it ITA,FW,Empoli,it Serie A,23,0.65,0.0,0,0.9999999999152305
+Mateo Pellegrino,ar ARG,FW,Parma,it Serie A,23,0.37,0.12,0,0.6388064028193153
+Sergiu Perciun,md MDA,"FW,MF",Torino,it Serie A,18,0.0,0.0,0,0.9999999992867004
+Francisco Perez,es ESP,"FW,MF",Valencia,es La Liga,21,0.0,0.0,0,0.9999999998767235
+Andrea Petagna,it ITA,FW,Monza,it Serie A,29,0.0,0.0,0,0.9999480214754474
+Jaden Philogene Bidace,eng ENG,"FW,DF",Ipswich Town,eng Premier League,22,0.38,0.0,0,0.9999205152443165
+Portu,es ESP,"FW,MF",Girona,es La Liga,32,0.11,0.23,0,0.9738399719849423
+Yussuf Poulsen,dk DEN,"FW,MF",RB Leipzig,de Bundesliga,30,0.48,0.0,0,0.99999999999417
+Ivan Prtajin,hr CRO,FW,Union Berlin,de Bundesliga,28,0.0,0.0,0,0.9999999963569817
+Raúl,es ESP,"FW,MF",Osasuna,es La Liga,23,0.48,0.0,0,0.8193804003283225
+Abderrahman Rebbach,dz ALG,"FW,MF",Alavés,es La Liga,25,0.0,0.0,0,0.9997302970647101
+Richarlison,br BRA,FW,Tottenham,eng Premier League,27,0.71,0.18,0,0.9999998485919396
+Jay Robinson,eng ENG,"MF,FW",Southampton,eng Premier League,17,0.0,0.0,0,1.0
+Rodri,es ESP,FW,Betis,es La Liga,24,0.0,0.0,0,0.9999999574708616
+James Rodríguez,co COL,"MF,FW",Rayo Vallecano,es La Liga,33,0.0,0.0,0,0.9999999999967395
+Emmanuel Sabbi,us USA,"FW,MF",Le Havre,fr Ligue 1,26,0.0,0.0,0,0.9554793664662531
+Umar Sadiq,ng NGA,FW,Real Sociedad,es La Liga,27,0.0,0.0,0,0.9999899935573263
+Wesley Saïd,fr FRA,FW,Lens,fr Ligue 1,29,0.3,0.0,0,0.7974229232955442
+Ibrahim Salah,ma MAR,FW,Brest,fr Ligue 1,22,0.25,0.25,0,0.9993915693006883
+Amine Salama,fr FRA,FW,Reims,fr Ligue 1,24,0.0,0.0,0,0.9997959633120361
+Junior Sambia,fr FRA,"DF,FW",Empoli,it Serie A,27,0.0,0.0,0,0.9999999689679133
+Alexis Sánchez,cl CHI,FW,Udinese,it Serie A,35,0.0,0.0,0,0.999969845013968
+Oliver Scarles,eng ENG,"DF,FW",West Ham,eng Premier League,18,0.0,0.0,0,0.6748393313993152
+Stefan Schimmer,de GER,"FW,MF",Heidenheim,de Bundesliga,30,0.0,0.0,0,0.9999999989337152
+Jérémy Sebas,mq MTQ,"FW,MF",Strasbourg,fr Ligue 1,21,0.0,0.0,0,0.9999996601550025
+Nicolás Serrano,es ESP,FW,Athletic Club,es La Liga,21,0.0,0.0,0,1.0
+Ryan Sessegnon,eng ENG,"FW,DF",Fulham,eng Premier League,24,0.63,0.31,0,0.9880266745629258
+Giovanni Simeone,ar ARG,FW,Napoli,it Serie A,29,0.21,0.21,0,0.9999929091604776
+Luis Sinisterra,co COL,"FW,MF",Bournemouth,eng Premier League,25,0.38,0.38,0,0.9999999999999991
+Andreas Skov Olsen,dk DEN,"FW,MF",Wolfsburg,de Bundesliga,24,0.17,0.17,0,0.9999724407322004
+Ola Solbakken,no NOR,"MF,FW",Empoli,it Serie A,25,0.0,0.0,0,0.9228383435068533
+Ramón Sosa,py PAR,"FW,MF",Nott'ham Forest,eng Premier League,24,0.3,0.0,0,0.999999928950415
+Riccardo Sottil,it ITA,"FW,MF",Milan,it Serie A,25,0.0,0.0,0,0.9999999960011099
+Riccardo Sottil,it ITA,"FW,MF",Fiorentina,it Serie A,25,0.11,0.11,0,0.9999658007356858
+Orri Steinn Óskarsson,is ISL,FW,Real Sociedad,es La Liga,19,0.29,0.0,0,0.9999903883623219
+Raheem Sterling,eng ENG,"FW,MF",Arsenal,eng Premier League,29,0.0,0.36,0,0.999682231447286
+Ross Stewart,sct SCO,FW,Southampton,eng Premier League,28,0.23,0.0,0,0.9999401905955515
+Stoichkov,es ESP,"MF,FW",Alavés,es La Liga,30,0.0,0.13,0,0.9830585282689586
+Musa Al-Taamari,jo JOR,"FW,MF",Rennes,fr Ligue 1,27,0.16,0.0,0,0.9991884466768063
+Mathys Tel,fr FRA,"FW,MF",Bayern Munich,de Bundesliga,19,0.0,0.36,0,0.9999999999699156
+Ramón Terrats,es ESP,"MF,FW",Villarreal,es La Liga,23,0.0,0.0,0,0.9999999999992593
+Martin Terrier,fr FRA,"MF,FW",Leverkusen,de Bundesliga,27,0.31,0.15,0,0.9579174502892216
+Thiago,br BRA,"FW,MF",Brentford,eng Premier League,23,0.0,0.0,0,0.9999848184960499
+Kieran Tierney,sct SCO,"DF,FW",Arsenal,eng Premier League,27,0.34,0.0,0,1.0
+Umut Tohumcu,de GER,"MF,FW",Hoffenheim,de Bundesliga,19,0.0,0.24,0,0.9999999715201509
+Pablo Torre,es ESP,"MF,FW",Barcelona,es La Liga,21,0.88,0.29,0,1.0
+Enes Ünal,tr TUR,"FW,MF",Bournemouth,eng Premier League,27,0.53,0.26,0,0.9999999996897326
+Can Uzun,tr TUR,"MF,FW",Eint Frankfurt,de Bundesliga,18,0.53,0.13,0,0.5150375939454348
+Ruben Vargas,ch SUI,"MF,FW",Augsburg,de Bundesliga,25,0.0,0.0,0,0.9999999977228065
+Lorenzo Venturino,it ITA,"FW,MF",Genoa,it Serie A,18,1.05,0.0,0,0.9999999999999978
+Simone Verdi,it ITA,"MF,FW",Como,it Serie A,32,0.0,0.0,0,1.0
+Pau Victor,es ESP,FW,Barcelona,es La Liga,22,0.57,0.29,0,1.0
+Ibrahima Wadji,sn SEN,"FW,MF",Saint-Étienne,fr Ligue 1,29,0.0,0.0,0,0.9828683775983862
+Elye Wahi,fr FRA,"FW,MF",Eint Frankfurt,de Bundesliga,21,0.0,0.0,0,1.0
+Timo Werner,de GER,"FW,MF",Tottenham,eng Premier League,28,0.0,0.53,0,0.9999999999976641
+Willian,br BRA,"FW,MF",Fulham,eng Premier League,35,0.0,0.0,0,1.0
+Callum Wilson,eng ENG,FW,Newcastle Utd,eng Premier League,32,0.0,0.0,0,0.9475863360435488
+Erencan Yardimci,tr TUR,"FW,MF",Hoffenheim,de Bundesliga,22,0.0,0.0,0,0.9999997681907014
+Yoram Zague,fr FRA,"DF,FW",Paris S-G,fr Ligue 1,18,0.0,0.0,0,1.0
+Nicola Zalewski,pl POL,"DF,FW",Roma,it Serie A,22,0.0,0.0,0,0.9900457326313524
+Nicolò Zaniolo,it ITA,"FW,MF",Atalanta,it Serie A,25,0.5,0.5,0,0.9999999999999969
+Duván Zapata,co COL,FW,Torino,it Serie A,33,0.46,0.0,0,0.9996818874933044

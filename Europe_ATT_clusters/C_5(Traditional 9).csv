@@ -1,0 +1,82 @@
+Player ▲,Nation,Pos,Squad,Comp,Age,Gls,Ast,Cluster,Cluster_Prob
+Matthis Abline,fr FRA,FW,Nantes,fr Ligue 1,21,0.29,0.06,5,0.9999999999998472
+Zakaria Aboukhlal,ma MAR,"MF,FW",Toulouse,fr Ligue 1,24,0.33,0.09,5,0.999999008203696
+Che Adams,sct SCO,FW,Torino,it Serie A,28,0.31,0.1,5,0.9999999999999991
+Junior Adamu,at AUT,FW,Freiburg,de Bundesliga,23,0.12,0.12,5,1.0
+Ludovic Ajorque,fr FRA,FW,Brest,fr Ligue 1,30,0.47,0.07,5,1.0
+Cameron Archer,eng ENG,FW,Southampton,eng Premier League,23,0.13,0.0,5,0.9993976855497593
+Adam Armstrong,eng ENG,"FW,MF",Southampton,eng Premier League,27,0.14,0.14,5,0.999997962711094
+Thierno Barry,fr FRA,FW,Villarreal,es La Liga,21,0.43,0.16,5,1.0
+Lucas Beltrán,ar ARG,"FW,MF",Fiorentina,it Serie A,23,0.24,0.19,5,0.9999998833918152
+Myron Boadu,nl NED,FW,Bochum,de Bundesliga,23,0.78,0.09,5,0.9999940247808381
+Victor Boniface,ng NGA,FW,Leverkusen,de Bundesliga,23,0.71,0.09,5,0.9999999998747064
+Ange-Yoan Bonny,fr FRA,FW,Parma,it Serie A,20,0.21,0.14,5,0.9999999999999893
+Jonathan Burkardt,de GER,FW,Mainz 05,de Bundesliga,24,0.77,0.09,5,0.999999990200692
+Irvin Cardona,fr FRA,FW,Saint-Étienne,fr Ligue 1,26,0.42,0.25,5,1.0
+Valentín Castellanos,ar ARG,FW,Lazio,it Serie A,25,0.38,0.11,5,0.9999999999650431
+Santiago Castro,ar ARG,FW,Bologna,it Serie A,19,0.31,0.16,5,1.0
+Lorenzo Colombo,it ITA,"FW,MF",Empoli,it Serie A,22,0.24,0.08,5,0.9755428142904199
+Patrick Cutrone,it ITA,FW,Como,it Serie A,26,0.31,0.18,5,0.9999999999991616
+Liam Delap,eng ENG,FW,Ipswich Town,eng Premier League,21,0.42,0.07,5,0.9999999971229734
+Oumar Diakité,ci CIV,FW,Reims,fr Ligue 1,20,0.22,0.06,5,0.9999999999999964
+Artem Dovbyk,ua UKR,FW,Roma,it Serie A,27,0.45,0.07,5,0.9999985798486554
+Hugo Duro,es ESP,FW,Valencia,es La Liga,24,0.46,0.08,5,0.9999998767559659
+Johannes Eggestein,de GER,FW,St. Pauli,de Bundesliga,26,0.15,0.19,5,0.9999874492834547
+Samuel Essende,cd COD,FW,Augsburg,de Bundesliga,26,0.38,0.11,5,1.0
+Evanilson,br BRA,FW,Bournemouth,eng Premier League,24,0.39,0.04,5,0.9999999999999574
+Serhou Guirassy,gn GUI,FW,Dortmund,de Bundesliga,28,0.73,0.14,5,1.0
+Christian Gytkjær,dk DEN,FW,Venezia,it Serie A,34,0.24,0.12,5,0.9999999886906714
+Erling Haaland,no NOR,FW,Manchester City,eng Premier League,24,0.72,0.1,5,0.9999999999796625
+Munir El Haddadi,ma MAR,"FW,MF",Leganés,es La Liga,28,0.42,0.0,5,0.9999999999999964
+Lucas Höler,de GER,"FW,MF",Freiburg,de Bundesliga,30,0.29,0.19,5,1.0
+Andrej Ilic,rs SRB,FW,Union Berlin,de Bundesliga,24,0.67,0.0,5,0.9999997152071748
+Nicolas Jackson,sn SEN,FW,Chelsea,eng Premier League,23,0.4,0.2,5,0.9999999999999449
+Raúl Jiménez,mx MEX,FW,Fulham,eng Premier League,33,0.43,0.11,5,0.9999988875660103
+Moise Kean,it ITA,FW,Fiorentina,it Serie A,24,0.58,0.1,5,0.9999999824113922
+Kiké,es ESP,FW,Alavés,es La Liga,34,0.46,0.0,5,1.0
+Tim Kleindienst,de GER,FW,Gladbach,de Bundesliga,28,0.53,0.23,5,1.0
+Koka,eg EGY,FW,Le Havre,fr Ligue 1,31,0.32,0.11,5,0.9999999999422435
+Randal Kolo Muani,fr FRA,FW,Juventus,it Serie A,25,0.62,0.08,5,0.9999999999606768
+Nikola Krstović,me MNE,FW,Lecce,it Serie A,24,0.32,0.15,5,1.0
+Gaëtan Laborde,fr FRA,FW,Nice,fr Ligue 1,30,0.54,0.2,5,0.9999999994613908
+Cyle Larin,ca CAN,FW,Mallorca,es La Liga,29,0.36,0.1,5,0.9999999980558787
+Juanmi Latasa,es ESP,FW,Valladolid,es La Liga,23,0.19,0.0,5,0.9999999999999982
+Robert Lewandowski,pl POL,FW,Barcelona,es La Liga,35,0.91,0.07,5,0.9999999999766978
+Lorenzo Lucca,it ITA,FW,Udinese,it Serie A,23,0.46,0.04,5,0.9999975080454443
+Romelu Lukaku,be BEL,FW,Napoli,it Serie A,31,0.44,0.32,5,0.999999999019602
+Frank Magri,cm CMR,"FW,MF",Toulouse,fr Ligue 1,24,0.3,0.06,5,0.9999999998553779
+Jean-Philippe Mateta,fr FRA,FW,Crystal Palace,eng Premier League,27,0.48,0.07,5,0.9999999996776339
+Borja Mayoral,es ESP,FW,Getafe,es La Liga,27,0.4,0.08,5,0.9993983926285319
+Junior Messias,br BRA,"MF,FW",Genoa,it Serie A,33,0.11,0.11,5,1.0
+Miguel,es ESP,FW,Leganés,es La Liga,24,0.05,0.16,5,1.0
+Vedat Muriqi,xk KVX,FW,Mallorca,es La Liga,30,0.31,0.09,5,1.0
+Eddie Nketiah,eng ENG,"FW,MF",Crystal Palace,eng Premier League,25,0.26,0.09,5,1.0
+Arnaud Nordin,fr FRA,FW,Montpellier,fr Ligue 1,26,0.31,0.08,5,1.0
+M'Bala Nzola,ao ANG,FW,Lens,fr Ligue 1,27,0.37,0.06,5,0.9999999999999858
+Loïs Openda,be BEL,"FW,MF",RB Leipzig,de Bundesliga,24,0.33,0.18,5,0.9999999999994547
+Mikel Oyarzabal,es ESP,FW,Real Sociedad,es La Liga,27,0.36,0.12,5,1.0
+Roberto Piccoli,it ITA,FW,Cagliari,it Serie A,23,0.29,0.03,5,1.0
+Marvin Pieringer,de GER,"FW,MF",Heidenheim,de Bundesliga,24,0.29,0.16,5,1.0
+Andrea Pinamonti,it ITA,FW,Genoa,it Serie A,25,0.32,0.03,5,1.0
+Joel Pohjanpalo,fi FIN,FW,Venezia,it Serie A,29,0.34,0.0,5,0.9999997544986136
+Javi Puado,es ESP,"FW,MF",Espanyol,es La Liga,26,0.36,0.12,5,0.9999999999999734
+Mateo Retegui,it ITA,FW,Atalanta,it Serie A,25,0.94,0.3,5,1.0
+Isaac Romero,es ESP,FW,Sevilla,es La Liga,24,0.17,0.08,5,1.0
+Antonio Sanabria,py PAR,FW,Torino,it Serie A,28,0.14,0.07,5,0.9999730046944333
+Patrik Schick,cz CZE,FW,Leverkusen,de Bundesliga,28,1.12,0.0,5,0.9999672207734956
+Benjamin Šeško,si SVN,"FW,MF",RB Leipzig,de Bundesliga,21,0.49,0.19,5,0.9999999999999964
+Fábio Silva,pt POR,FW,Las Palmas,es La Liga,22,0.48,0.14,5,0.9994449937443577
+Lassine Sinayoko,ml MLI,"FW,MF",Auxerre,fr Ligue 1,24,0.2,0.31,5,0.9999734626882179
+Ibrahim Sissoko,ml MLI,FW,Saint-Étienne,fr Ligue 1,28,0.33,0.11,5,0.9999999998311688
+Dominic Solanke,eng ENG,FW,Tottenham,eng Premier League,26,0.37,0.12,5,1.0
+Alexander Sørloth,no NOR,FW,Atlético Madrid,es La Liga,28,1.15,0.11,5,1.0
+Casper Tengstedt,dk DEN,FW,Hellas Verona,it Serie A,24,0.36,0.06,5,0.9992005392139016
+Phillip Tietz,de GER,FW,Augsburg,de Bundesliga,27,0.37,0.11,5,0.9999065793049982
+Ferrán Torres,es ESP,"FW,MF",Barcelona,es La Liga,24,0.81,0.49,5,0.9999999999999964
+Christantus Uche,ng NGA,"FW,MF",Getafe,es La Liga,21,0.14,0.22,5,1.0
+Jamie Vardy,eng ENG,FW,Leicester City,eng Premier League,37,0.29,0.13,5,0.9999999997773763
+Ollie Watkins,eng ENG,FW,Aston Villa,eng Premier League,28,0.55,0.28,5,0.9999999652593493
+Danny Welbeck,eng ENG,FW,Brighton,eng Premier League,33,0.43,0.17,5,0.999999998659419
+Jonas Wind,dk DEN,"FW,MF",Wolfsburg,de Bundesliga,25,0.41,0.14,5,0.9999851050758727
+Nick Woltemade,de GER,"FW,MF",Stuttgart,de Bundesliga,22,0.67,0.11,5,1.0
+Chris Wood,nz NZL,FW,Nott'ham Forest,eng Premier League,32,0.61,0.09,5,0.9999999999998792

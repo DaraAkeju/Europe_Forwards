@@ -1,0 +1,18 @@
+# Python virtual environment
+.venv/
+
+# Folder with private/large data
+Europe_ATT_clusters_private/
+PLayers/
+# Python cache files
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+git add .
+git commit -m "Initial commit: Project on clustering European forwards"
+git remote add origin https://DaraAkeju/Forwards_Europe
+git branch -M main
+git push -u origin main
